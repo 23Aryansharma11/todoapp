@@ -1,9 +1,16 @@
-# React + Vite
+# To-Do List App with React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple To-Do List application built with React. It allows users to add tasks, mark them as completed, and view the list of tasks and completed tasks.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# todoapp
+- **Add Task:** Enter a task and its description, then click "Add Task" to add it to the to-do list.
+- **Delete Task:** Remove a task from the to-do list by clicking the "Delete" button.
+- **Mark as Done:** Move a task to the completed list by clicking the "Done" button.
+
+## Usage
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/23Aryansharma11/to-do-list-react.git
